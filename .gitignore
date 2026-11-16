@@ -1,0 +1,21 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+*.iml
+*.apk
+icon_preview.png
+launcher_preview.png
+play_icon_preview.png
+play_launcher_preview.png
+play_circle_preview.png
+final_icon_preview.png
+centroid_check.png
+tone_compare.png
+ring_icon_preview.png
+
+# local working artifacts (not for the public repo)
+红果*实测.png
+复刻与测试报告.md
+网络限制与解封研究.md
